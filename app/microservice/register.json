@@ -2,7 +2,7 @@
 	"name": "Arcgis adapter",
 	"cache": ["query-arcgis"],
 	"uncache": ["query-arcgis"],
-	"tags": ["rw"],
+	"tags": ["skydipper"],
 	"endpoints": [{
 		"path": "/v1/query/:dataset",
 		"method": "GET",
